@@ -1,0 +1,229 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/lazaro/Projects/8bit_computer_VHDL/questasim/ram
+T_opt
+!s110 1645385340
+VN0;FFSNQTIaj0f`Fl>hE12
+04 16 4 work test_mar_mdr_ram test 1
+=1-e0d464205445-6212967c-a620e-1c3c
+!s124 OEM10U5 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Emar
+Z0 w1643758202
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/mar_mdr_ram
+Z4 8/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd
+Z5 F/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd
+l0
+L4 1
+VeMhbBAD6^LWQU`UeB3M8L2
+!s100 HU`7S=mBhol_j2NlI2aCD0
+Z6 OL;C;2021.3;73
+32
+Z7 !s110 1645385308
+!i10b 1
+Z8 !s108 1645385308.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd|
+Z10 !s107 /home/lazaro/Projects/8bit_computer_VHDL/mar.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehav
+R1
+R2
+DEx4 work 3 mar 0 22 eMhbBAD6^LWQU`UeB3M8L2
+!i122 0
+l30
+L16 25
+VOhU9?:J5KAl2mcR[AfWSA1
+!s100 SN^nz;D_8hBB@ldKCNSIY0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Emar_mdr_ram
+Z13 w1644963854
+R1
+R2
+!i122 1
+R3
+Z14 8/home/lazaro/Projects/8bit_computer_VHDL/mar_mdr_ram.vhd
+Z15 F/home/lazaro/Projects/8bit_computer_VHDL/mar_mdr_ram.vhd
+l0
+L4 1
+VIUd5lS@EkhPmH;MaJPgl<0
+!s100 7N;[;<SR8?:Q@M2JLd:V81
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/mar_mdr_ram.vhd|
+Z17 !s107 /home/lazaro/Projects/8bit_computer_VHDL/mar_mdr_ram.vhd|
+!i113 0
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 11 mar_mdr_ram 0 22 IUd5lS@EkhPmH;MaJPgl<0
+!i122 1
+l82
+L27 94
+VPZjP]JX9;jXb5EZ70<XGU3
+!s100 hOM1?7A<:]7QX2K?ThSkQ0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12
+Emdr
+Z18 w1645381508
+R1
+R2
+!i122 2
+R3
+Z19 8/home/lazaro/Projects/8bit_computer_VHDL/mdr.vhd
+Z20 F/home/lazaro/Projects/8bit_computer_VHDL/mdr.vhd
+l0
+L4 1
+VjJ4Z3gk0G>PK292iOWijb1
+!s100 nNP_N8nZkkEN4<7NW?6hl2
+R6
+32
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/mdr.vhd|
+Z22 !s107 /home/lazaro/Projects/8bit_computer_VHDL/mdr.vhd|
+!i113 0
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 3 mdr 0 22 jJ4Z3gk0G>PK292iOWijb1
+!i122 2
+l28
+L23 50
+VDC;:eMnU=6][KZ`H`n_a63
+!s100 3]`OlHAkgFinHCJYc>oX_0
+R6
+32
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 0
+R11
+R12
+Eram
+Z23 w1645384593
+Z24 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 3
+R3
+Z25 8/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd
+Z26 F/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd
+l0
+L5 1
+V7Ga@=jiFF>JBA6OL]IBVV0
+!s100 5LQ]im`ni]kD]oI=lMz4A2
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd|
+Z28 !s107 /home/lazaro/Projects/8bit_computer_VHDL/ram.vhd|
+!i113 0
+R11
+R12
+Abehav
+R24
+R1
+R2
+DEx4 work 3 ram 0 22 7Ga@=jiFF>JBA6OL]IBVV0
+!i122 3
+l31
+L22 61
+VkKYzECLF3kbBMkN@MNMQU2
+!s100 o;RSfJk]>`gV[Gj0:>eIl3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 0
+R11
+R12
+Etest_mar_mdr_ram
+Z29 w1645128630
+R1
+R2
+!i122 4
+R3
+Z30 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar_mdr_ram.vhd
+Z31 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar_mdr_ram.vhd
+l0
+L4 1
+VKQQ]5DLZE^RBPShA]e3UP2
+!s100 CTj6_JLEGOahA>>d6Gkf02
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar_mdr_ram.vhd|
+Z33 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar_mdr_ram.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 16 test_mar_mdr_ram 0 22 KQQ]5DLZE^RBPShA]e3UP2
+!i122 4
+l48
+L7 202
+VRMk_nZ<P;g5=m_4hdmlHc0
+!s100 I21>P7F7gdWBf`g3G>jcM0
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 0
+R11
+R12

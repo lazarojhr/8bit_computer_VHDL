@@ -1,0 +1,25 @@
+/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/mar.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mar
+-- Compiling architecture behav of mar
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity normal_register
+-- Compiling architecture behav of normal_register
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_mar
+-- Compiling architecture test of test_mar
+
+} {} {}}

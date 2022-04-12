@@ -1,0 +1,122 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/alu
+T_opt
+!s110 1645036002
+Vf`M@;K3RzAi`SzhNHafN@3
+Z2 04 16 4 work test_accumulator test 1
+=3-e0d464205445-620d41e1-df6d9-1127
+Z3 !s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.3;73
+R1
+T_opt1
+!s110 1643237482
+Vfla;lHDJ[kL6X8[oF784G3
+R2
+=1-e0d464205445-61f1d06a-989c0-1afb
+R3
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R4
+n@_opt1
+R5
+R1
+Eaccumulator
+Z6 w1643910366
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 18
+Z9 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/accumulator
+Z10 8/home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd
+Z11 F/home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd
+l0
+L4 1
+Vab<6fPQWND=]YCdP2T@kM0
+!s100 O58ghbPMnn6KzaA4Kjljf0
+Z12 OL;C;2021.3;73
+32
+Z13 !s110 1645376729
+!i10b 1
+Z14 !s108 1645376729.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd|
+Z16 !s107 /home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehav
+R7
+R8
+DEx4 work 11 accumulator 0 22 ab<6fPQWND=]YCdP2T@kM0
+!i122 18
+l24
+L20 40
+V3kI[T_NYMcHK15:DZNU:80
+!s100 DD7hQhj6NON<mXlg:8Y]30
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Etest_accumulator
+Z19 w1645035977
+R7
+R8
+!i122 19
+R9
+Z20 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_accumulator.vhd
+Z21 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_accumulator.vhd
+l0
+L4 1
+VaUX03cfQl6:4^AJPMkhj93
+!s100 I9BPYD`CF=<M@93zR_@DS0
+R12
+32
+Z22 !s110 1645376730
+!i10b 1
+R14
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_accumulator.vhd|
+Z24 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_accumulator.vhd|
+!i113 0
+R17
+R18
+Atest
+R7
+R8
+Z25 DEx4 work 16 test_accumulator 0 22 aUX03cfQl6:4^AJPMkhj93
+!i122 19
+l36
+Z26 L7 86
+Z27 VJk3O438NU?GHolEdA`0?90
+Z28 !s100 ^Boz::mF@i4?ZJ7368SG42
+R12
+32
+R22
+!i10b 1
+R14
+R23
+R24
+!i113 0
+R17
+R18

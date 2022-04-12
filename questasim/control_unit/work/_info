@@ -1,0 +1,137 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/lazaro
+T_opt
+!s110 1645390766
+V5jKPemYF^LzKDUf>XcLI`0
+Z2 04 17 4 work test_control_unit test 1
+=1-e0d464205445-6212abae-832bc-31d0
+Z3 !s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.3;73
+T_opt1
+!s110 1643237298
+V;1V?k=R8BGb0l611MHJVQ1
+R2
+=2-e0d464205445-61f1cfb2-1eaa-19dc
+R3
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R4
+n@_opt1
+R5
+R1
+Econtrol_unit
+Z6 w1644860887
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 62
+Z9 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/control_unit
+Z10 8/home/lazaro/Projects/8bit_computer_VHDL/control_unit.vhd
+Z11 F/home/lazaro/Projects/8bit_computer_VHDL/control_unit.vhd
+l0
+L4 1
+V@E2XT[Um;zXZFm0YIl0DO2
+!s100 Hd;HFYz5Ldi9:g[RD8Rab0
+Z12 OL;C;2021.3;73
+32
+Z13 !s110 1645390710
+!i10b 1
+Z14 !s108 1645390710.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/control_unit.vhd|
+Z16 !s107 /home/lazaro/Projects/8bit_computer_VHDL/control_unit.vhd|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehav
+R7
+R8
+DEx4 work 12 control_unit 0 22 @E2XT[Um;zXZFm0YIl0DO2
+!i122 62
+l100
+L67 756
+VI;?<JSFjMZSnJ3Fm;fOC`2
+!s100 PiAE`mD@67j0nP1`R9Qo[1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Etest_control_unit
+Z19 w1645303092
+R7
+R8
+!i122 63
+R9
+Z20 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_control_unit.vhd
+Z21 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_control_unit.vhd
+l0
+L4 1
+VbNTWm9CzG<jUEU5mDzUEo3
+!s100 8AMSeG0BbTE3ic2M[bSZz0
+R12
+32
+R13
+!i10b 1
+R14
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_control_unit.vhd|
+Z23 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_control_unit.vhd|
+!i113 0
+R17
+R18
+Atest
+R7
+R8
+DEx4 work 17 test_control_unit 0 22 bNTWm9CzG<jUEU5mDzUEo3
+!i122 63
+l130
+L7 362
+VBmDIQ_4dmnY>N80LiXhd61
+!s100 KO0AQl:RT[;@?_7`LQOFK1
+R12
+32
+R13
+!i10b 1
+R14
+R22
+R23
+!i113 0
+R17
+R18

@@ -1,0 +1,17 @@
+/home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seven_segment_decoder
+-- Compiling architecture behav of seven_segment_decoder
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/tests/test_seven_segment_decoder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/tests/test_seven_segment_decoder.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_seven_segment_decoder
+-- Compiling architecture test of test_seven_segment_decoder
+
+} {} {}}

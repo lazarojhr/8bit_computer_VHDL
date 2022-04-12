@@ -1,0 +1,147 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/cpu
+T_opt
+!s110 1643758056
+V@1?P=_eUC8Q<W7N>00Q9j2
+04 8 4 work test_mar test 1
+=1-e0d464205445-61f9c1e8-53921-2618
+!s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+R1
+Emar
+Z2 w1643758202
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 13
+Z5 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/mar
+Z6 8/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd
+Z7 F/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd
+l0
+L4 1
+VeMhbBAD6^LWQU`UeB3M8L2
+!s100 HU`7S=mBhol_j2NlI2aCD0
+Z8 OL;C;2021.3;73
+32
+Z9 !s110 1645379516
+!i10b 1
+Z10 !s108 1645379516.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/mar.vhd|
+Z12 !s107 /home/lazaro/Projects/8bit_computer_VHDL/mar.vhd|
+!i113 0
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehav
+R3
+R4
+DEx4 work 3 mar 0 22 eMhbBAD6^LWQU`UeB3M8L2
+!i122 13
+l30
+L16 25
+VOhU9?:J5KAl2mcR[AfWSA1
+!s100 SN^nz;D_8hBB@ldKCNSIY0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Enormal_register
+Z15 w1642701978
+R3
+R4
+!i122 15
+R5
+Z16 8/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+Z17 F/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+l0
+L4 1
+V;f:V]GhQiQTN0gER3z5=C0
+!s100 _BCS^PRiZFVWFk;Id<^YP0
+R8
+32
+Z18 !s110 1645379517
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd|
+!s107 /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd|
+!i113 0
+R13
+R14
+Abehav
+R3
+R4
+Z20 DEx4 work 15 normal_register 0 22 ;f:V]GhQiQTN0gER3z5=C0
+!i122 15
+l17
+Z21 L16 17
+Z22 V?Di2=2o>XH2km?7I176lY0
+Z23 !s100 3OK9[Nlb?]V6`iIZ]CHH]3
+R8
+32
+R18
+!i10b 1
+R10
+R19
+Z24 !s107 /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd|
+!i113 0
+R13
+R14
+Etest_mar
+Z25 w1643757023
+R3
+R4
+!i122 14
+R5
+Z26 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd
+Z27 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd
+l0
+L4 1
+VV7SOUPeO@LikLk9ZC5E:^3
+!s100 `aK6X@79OHbhVWK;fM_>`0
+R8
+32
+R9
+!i10b 1
+R10
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd|
+Z29 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_mar.vhd|
+!i113 0
+R13
+R14
+Atest
+R3
+R4
+DEx4 work 8 test_mar 0 22 V7SOUPeO@LikLk9ZC5E:^3
+!i122 14
+l28
+L7 57
+V2ABCnN@I`X<`@6RIKNNoH2
+!s100 a]^SIEhDFlnZKN1XA?8cU2
+R8
+32
+R9
+!i10b 1
+R10
+R28
+R29
+!i113 0
+R13
+R14

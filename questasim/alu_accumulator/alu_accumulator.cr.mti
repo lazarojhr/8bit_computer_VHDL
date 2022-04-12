@@ -1,0 +1,42 @@
+/home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/accumulator.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity accumulator
+-- Compiling architecture behav of accumulator
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/alu_accumulator.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/alu_accumulator.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_accumulator
+-- Compiling architecture behav of alu_accumulator
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity normal_register
+-- Compiling architecture behav of normal_register
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/tests/test_alu_accumulator.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/tests/test_alu_accumulator.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_alu_accumulator
+-- Compiling architecture test of test_alu_accumulator
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/alu.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/alu.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture behav of alu
+
+} {} {}}

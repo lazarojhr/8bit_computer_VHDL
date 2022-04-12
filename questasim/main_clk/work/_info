@@ -1,0 +1,106 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/lazaro/Projects/8bit_computer_VHDL/questasim/instruction_register
+T_opt
+!s110 1645564565
+VhOe?Sd]<_l5`P=OA5eE`<3
+04 13 4 work test_main_clk test 1
+=2-e0d464205445-62155295-508a1-19de
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Emain_clk
+Z1 w1645564524
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 5
+Z4 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/main_clk
+Z5 8/home/lazaro/Projects/8bit_computer_VHDL/main_clk.vhd
+Z6 F/home/lazaro/Projects/8bit_computer_VHDL/main_clk.vhd
+l0
+L4 1
+V[n:na;CnHbgP_]<:FHD4E2
+!s100 EP1ARQ6oaf8m>CHXk_D:d0
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1645564551
+!i10b 1
+Z9 !s108 1645564551.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/main_clk.vhd|
+Z11 !s107 /home/lazaro/Projects/8bit_computer_VHDL/main_clk.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehav
+R2
+R3
+DEx4 work 8 main_clk 0 22 [n:na;CnHbgP_]<:FHD4E2
+!i122 5
+l16
+L15 17
+VXCXZXRd`:e7T:me]4o7;43
+!s100 VDG30JG>:8X?JalPn]NiL1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Etest_main_clk
+Z14 w1645378806
+R2
+R3
+!i122 6
+R4
+Z15 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_main_clk.vhd
+Z16 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_main_clk.vhd
+l0
+L4 1
+Vkga1S?bIBLXGlnL[FP1Il0
+!s100 Zm94oWEd7dRTC5PjSUFKm3
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_main_clk.vhd|
+Z18 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_main_clk.vhd|
+!i113 0
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 13 test_main_clk 0 22 kga1S?bIBLXGlnL[FP1Il0
+!i122 6
+l26
+L7 50
+Vg8L`JjjF0_j`OTFa7?VDn1
+!s100 RoX`2DCkd?nK:@7gi;XP:2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12
+R13

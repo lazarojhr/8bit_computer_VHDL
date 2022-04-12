@@ -1,0 +1,190 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/lazaro/Projects/8bit_computer_VHDL/questasim/normal_register_split
+T_opt
+!s110 1645389212
+VgPklaRklIPADSWhZ9`ePm1
+04 16 4 work test_output_port test 1
+=5-e0d464205445-6212a59c-2a8f0-27f5
+!s124 OEM10U5 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Enormal_register_split
+Z1 w1644526638
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 25
+Z4 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/output_port
+Z5 8/home/lazaro/Projects/8bit_computer_VHDL/normal_register_split.vhd
+Z6 F/home/lazaro/Projects/8bit_computer_VHDL/normal_register_split.vhd
+l0
+L4 1
+VA7=FJm[@8h28KO?jLGb7e2
+!s100 mZlbd4M?ML]oD<d7B6k:Q1
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1645389193
+!i10b 1
+Z9 !s108 1645389193.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/normal_register_split.vhd|
+Z11 !s107 /home/lazaro/Projects/8bit_computer_VHDL/normal_register_split.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehav
+R2
+R3
+DEx4 work 21 normal_register_split 0 22 A7=FJm[@8h28KO?jLGb7e2
+!i122 25
+l18
+L17 19
+VHMY>Rd3O24B_>1eSSoj2^1
+!s100 dAz8SoOjVH5jJ:WmnNE_O1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Eoutput_port
+Z14 w1645045784
+R2
+R3
+!i122 28
+R4
+Z15 8/home/lazaro/Projects/8bit_computer_VHDL/output_port.vhd
+Z16 F/home/lazaro/Projects/8bit_computer_VHDL/output_port.vhd
+l0
+L4 1
+VGFV^XV55:L:eejBET<E@g1
+!s100 i02k@hWRT?Dlb`gFRIE];0
+R7
+32
+Z17 !s110 1645389194
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/output_port.vhd|
+Z19 !s107 /home/lazaro/Projects/8bit_computer_VHDL/output_port.vhd|
+!i113 0
+R12
+R13
+Abehav
+R2
+R3
+DEx4 work 11 output_port 0 22 GFV^XV55:L:eejBET<E@g1
+!i122 28
+l68
+L29 79
+VzZni;XRdOUDdiz7lLoNCW2
+!s100 kOl5FW=U?o1N:VU]2YjGS3
+R7
+32
+R17
+!i10b 1
+R9
+R18
+R19
+!i113 0
+R12
+R13
+Eseven_segment_decoder
+Z20 w1645389129
+R2
+R3
+!i122 26
+R4
+Z21 8/home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd
+Z22 F/home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd
+l0
+L4 1
+VS0IHA6;HV@^?7ODH]Bcl52
+!s100 P3LWjfH9hS9jz;SRL2_Ro1
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd|
+Z24 !s107 /home/lazaro/Projects/8bit_computer_VHDL/seven_segment_decoder.vhd|
+!i113 0
+R12
+R13
+Abehav
+R2
+R3
+DEx4 work 21 seven_segment_decoder 0 22 S0IHA6;HV@^?7ODH]Bcl52
+!i122 26
+l23
+L22 322
+V6IJzg?6QKl<lBjFL;EW5A2
+!s100 ]?8m_79TPmV;VKJZ];5Ri1
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 0
+R12
+R13
+Etest_output_port
+Z25 w1645389182
+R2
+R3
+!i122 27
+R4
+Z26 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_output_port.vhd
+Z27 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_output_port.vhd
+l0
+L4 1
+VT2zdA?[H3>4CMYS?RnOM12
+!s100 CgoIi^OQ?7?]E:AnjP4Bj1
+R7
+32
+R8
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_output_port.vhd|
+Z29 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_output_port.vhd|
+!i113 0
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 16 test_output_port 0 22 T2zdA?[H3>4CMYS?RnOM12
+!i122 27
+l54
+L7 110
+VEIS0BbWdB2_1M4X7@O<T_1
+!s100 3<TAdNdVehQYl4enP4[G:1
+R7
+32
+R8
+!i10b 1
+R9
+R28
+R29
+!i113 0
+R12
+R13

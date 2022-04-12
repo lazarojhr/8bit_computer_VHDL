@@ -1,0 +1,107 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/lazaro/Projects/8bit_computer_VHDL/questasim/cpu_register
+T_opt
+!s110 1645474161
+VMjCEBB7eT>`jb>U4:dKIa2
+04 15 4 work test_input_port test 1
+=2-e0d464205445-6213f170-c9e58-1829
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Einput_port
+Z1 w1645473658
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+Z4 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/input_port
+Z5 8/home/lazaro/Projects/8bit_computer_VHDL/input_port.vhd
+Z6 F/home/lazaro/Projects/8bit_computer_VHDL/input_port.vhd
+l0
+L4 1
+V15ko>ATQI?n3]?]e5e>f_0
+!s100 ei:dkI663hem<HI>C2chl1
+Z7 OL;C;2021.3;73
+32
+Z8 !s110 1645474144
+!i10b 1
+Z9 !s108 1645474144.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/input_port.vhd|
+Z11 !s107 /home/lazaro/Projects/8bit_computer_VHDL/input_port.vhd|
+!i113 0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehav
+R2
+R3
+DEx4 work 10 input_port 0 22 15ko>ATQI?n3]?]e5e>f_0
+!i122 6
+l28
+L24 35
+Vnn7PQgNQUaPUPSI6IF3KV0
+!s100 ]>SBFlIE:WMjX=nS7V4aI3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Etest_input_port
+Z14 w1645474132
+R2
+R3
+!i122 7
+R4
+Z15 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_input_port.vhd
+Z16 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_input_port.vhd
+l0
+L4 1
+VhLO?<G_ChE:d5zjoZYMdH2
+!s100 NkWc;RoQiBaU>dWb1>C[?0
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_input_port.vhd|
+Z18 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_input_port.vhd|
+!i113 0
+R12
+R13
+Atest
+R2
+R3
+DEx4 work 15 test_input_port 0 22 hLO?<G_ChE:d5zjoZYMdH2
+!i122 7
+l44
+L7 114
+V[APB;QIA]h>9B70TOaCHa0
+!s100 k:G[dAb1eeQz<9Z1Rkkkz1
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12
+R13

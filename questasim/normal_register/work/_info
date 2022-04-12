@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/lazaro/Projects/8bit_computer_VHDL/questasim/mar_mdr_ram
+T_opt
+!s110 1645385793
+V1bY`9jf3o:ZEX[i<mEYn]1
+04 20 4 work test_normal_register test 1
+=1-e0d464205445-62129841-b4a1a-1ebe
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Enormal_register
+Z0 w1642701978
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+Z3 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/normal_register
+Z4 8/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+Z5 F/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd
+l0
+L4 1
+V;f:V]GhQiQTN0gER3z5=C0
+!s100 _BCS^PRiZFVWFk;Id<^YP0
+Z6 OL;C;2021.3;73
+32
+Z7 !s110 1645385767
+!i10b 1
+Z8 !s108 1645385767.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd|
+Z10 !s107 /home/lazaro/Projects/8bit_computer_VHDL/normal_register.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehav
+R1
+R2
+DEx4 work 15 normal_register 0 22 ;f:V]GhQiQTN0gER3z5=C0
+!i122 0
+l17
+L16 17
+V?Di2=2o>XH2km?7I176lY0
+!s100 3OK9[Nlb?]V6`iIZ]CHH]3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Etest_normal_register
+Z13 w1645038989
+R1
+R2
+!i122 1
+R3
+Z14 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_normal_register.vhd
+Z15 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_normal_register.vhd
+l0
+L4 1
+V[[;8zMCUPzf5JaeEP0i6R3
+!s100 NmN10ljXI1LUV:daXdRc^3
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_normal_register.vhd|
+Z17 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_normal_register.vhd|
+!i113 0
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 20 test_normal_register 0 22 [[;8zMCUPzf5JaeEP0i6R3
+!i122 1
+l28
+L7 57
+VG>Ah^@SE;MKd<3mZG1ljK2
+!s100 2o6]hZ0_5KEnnBKh5n9L72
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 0
+R11
+R12

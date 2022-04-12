@@ -1,0 +1,116 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e vcom 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/mdr
+T_opt
+!s110 1645384660
+VPzRNd`B^;?NH>KIUZcMo20
+04 8 4 work test_ram test 1
+=12-e0d464205445-621293d3-bc536-10fe
+!s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+R1
+Eram
+Z2 w1645384593
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 22
+Z6 d/home/lazaro/Projects/8bit_computer_VHDL/questasim/ram
+Z7 8/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd
+Z8 F/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd
+l0
+L5 1
+V7Ga@=jiFF>JBA6OL]IBVV0
+!s100 5LQ]im`ni]kD]oI=lMz4A2
+Z9 OL;C;2021.3;73
+32
+Z10 !s110 1645390185
+!i10b 1
+Z11 !s108 1645390185.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/ram.vhd|
+Z13 !s107 /home/lazaro/Projects/8bit_computer_VHDL/ram.vhd|
+!i113 0
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1 CvgOpt 0
+Abehav
+R3
+R4
+R5
+DEx4 work 3 ram 0 22 7Ga@=jiFF>JBA6OL]IBVV0
+!i122 22
+l31
+L22 61
+VkKYzECLF3kbBMkN@MNMQU2
+!s100 o;RSfJk]>`gV[Gj0:>eIl3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Etest_ram
+Z16 w1645384546
+R4
+R5
+!i122 23
+R6
+Z17 8/home/lazaro/Projects/8bit_computer_VHDL/tests/test_ram.vhd
+Z18 F/home/lazaro/Projects/8bit_computer_VHDL/tests/test_ram.vhd
+l0
+L4 1
+V5N9[NDP`cR19LM^7mPZJe2
+!s100 AOHUk4h3QQ_>mP?=a5fdE2
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|/home/lazaro/Projects/8bit_computer_VHDL/tests/test_ram.vhd|
+Z20 !s107 /home/lazaro/Projects/8bit_computer_VHDL/tests/test_ram.vhd|
+!i113 0
+R14
+R15
+Atest
+R4
+R5
+Z21 DEx4 work 8 test_ram 0 22 5N9[NDP`cR19LM^7mPZJe2
+!i122 23
+l38
+Z22 L7 188
+Z23 V@HQlWWBFaQ@]l0NBae`8I3
+Z24 !s100 DRbYU`bXKW]e]eKbJzY<=3
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 0
+R14
+R15

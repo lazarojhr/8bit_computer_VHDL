@@ -1,0 +1,18 @@
+/home/lazaro/Projects/8bit_computer_VHDL/program_counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/program_counter.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity program_counter
+-- Compiling architecture behav of program_counter
+
+} {} {}} /home/lazaro/Projects/8bit_computer_VHDL/tests/test_program_counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none /home/lazaro/Projects/8bit_computer_VHDL/tests/test_program_counter.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2021.3 Compiler 2021.07 Jul 13 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_program_counter
+-- Compiling architecture test of test_program_counter
+
+} {} {}}
